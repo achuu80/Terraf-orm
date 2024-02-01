@@ -3,3 +3,6 @@ resourceGroupName = "myTerraformGroup"
 tags = {
     environment = "Test"
 }
+
+vnetname = "myterraformvnetname"
+subnetname = "mysubnetname"
