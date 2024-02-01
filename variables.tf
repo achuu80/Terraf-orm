@@ -30,3 +30,6 @@ variable "nsgname"{
 variable "nicname" {
     type = string
 }
+variable "virtual_machine"{
+    type = string
+}
